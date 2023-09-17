@@ -35,10 +35,14 @@
 
 ### Screenshots
 
-![Screenshot_20230917_231752](https://github.com/AkashShrestha31/avaocado-project/assets/18007024/b45eb043-4143-4d9e-8360-4277b01f1623)
-![Screenshot_20230917_231437](https://github.com/AkashShrestha31/avaocado-project/assets/18007024/91b63840-36b7-45dd-a96c-2c2065cbd3f5)
-![Screenshot_20230917_231410](https://github.com/AkashShrestha31/avaocado-project/assets/18007024/a5ac16c3-58b3-4695-9030-7860ab5818f1)
-![Screenshot_20230917_231335](https://github.com/AkashShrestha31/avaocado-project/assets/18007024/62e626c2-8ca4-44d9-ac39-b44d0c0aff5a)
+<img src="https://github.com/AkashShrestha31/avaocado-project/assets/18007024/b45eb043-4143-4d9e-8360-4277b01f1623" width="200" height="400">
+
+<img src="https://github.com/AkashShrestha31/avaocado-project/assets/18007024/91b63840-36b7-45dd-a96c-2c2065cbd3f5" width="200" height="400">
+
+<img src="https://github.com/AkashShrestha31/avaocado-project/assets/18007024/42b3fdfb-b8e7-4bf6-9a9e-5d3deca1ec93" width="200" height="400">
+
+<img src="https://github.com/AkashShrestha31/avaocado-project/assets/18007024/62e626c2-8ca4-44d9-ac39-b44d0c0aff5a" width="200" height="400">
+
 
 ### Installation
 
