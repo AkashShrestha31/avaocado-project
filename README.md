@@ -30,10 +30,10 @@ List any prerequisites that users need to have installed before they can run you
 - get_it: ^7.2.0
 - flutter_bloc: ^8.1.3
   - better_player:
-        git:
-            url: https://github.com/vurilo/better_player
-            ref: dev-23
-            path: better_player
+        - git:
+            - url: https://github.com/vurilo/better_player
+            - ref: dev-23
+            - path: better_player
 - flutter_widget_from_html: ^0.8.5
 
 ### Installation
