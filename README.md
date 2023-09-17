@@ -1,5 +1,4 @@
 
-
 ## Getting Started
 - Integrate a GET API from JSONPlaceholder using url https://jsonplaceholder.typicode.com/posts
 - Implemented Figma design https://www.figma.com/file/x8xrjXLuy4fNQCNuqbxWnD/Untitled?type=design&node-id=0-1&mode=design&t=W1kc212TOZefRIPo-0
@@ -12,10 +11,8 @@
 
 ### Prerequisites
 
-List any prerequisites that users need to have installed before they can run your project. Include links or instructions for installing these prerequisites.
-
-- Flutter: Version 3.13.0 (Link to installation guide)
-- Dart: Version 3.1.0 (Link to installation guide)
+- Flutter: Version 3.13.0
+- Dart: Version 3.1.0
 
 ### Package Used
 
@@ -35,6 +32,9 @@ List any prerequisites that users need to have installed before they can run you
             - ref: dev-23
             - path: better_player
 - flutter_widget_from_html: ^0.8.5
+
+### Screenshots
+
 
 ### Installation
 
